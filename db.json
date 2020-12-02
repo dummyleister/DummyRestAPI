@@ -1,5 +1,5 @@
 {
-  "item" : [
+  "items": [
     {
       "id": 1,
       "itemname": "Cake",
@@ -7,8 +7,8 @@
     },
     {
       "id": 2,
-      "itemname": "IcCream",
-      "numberofitem": 50
+      "itemname": "Ice Cream",
+      "numberofitem": 100
     }
   ]
 }
