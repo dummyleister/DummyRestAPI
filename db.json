@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "itemname": "Cake",
+    "numberofitem": 50
+  },
+  {
+    "id": 2,
+    "itemname": "IcCream",
+    "numberofitem": 50
+  }
+]
