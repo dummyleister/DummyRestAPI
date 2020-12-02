@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "itemname": "Cake",
@@ -9,4 +9,4 @@
     "itemname": "IcCream",
     "numberofitem": 50
   }
-}
+]
